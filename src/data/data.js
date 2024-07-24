@@ -1,0 +1,1 @@
+export const navVariables = ["Pricing", "About us", "Membership", "Resources", "Cart", "Contact", "Sign in", "Register"]
